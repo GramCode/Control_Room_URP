@@ -1923,7 +1923,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.8254717, g: 1, b: 0.97878283, a: 1}
-  m_Intensity: 2
+  m_Intensity: 5.7
   m_Range: 6.66
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -2523,13 +2523,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 249513465}
-  m_LocalRotation: {x: -0.2141229, y: -0.0071707913, z: 0.6581473, w: 0.7217632}
+  m_LocalRotation: {x: -0.21412292, y: -0.0071707917, z: 0.65814734, w: 0.72176325}
   m_LocalPosition: {x: 4, y: 2.4326987, z: 16.504581}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_Father: {fileID: 2003072006}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: -17.437, y: -17.835, z: 87.478}
 --- !u!1001 &254253198
 PrefabInstance:
@@ -3772,17 +3772,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 475295240}
     m_Modifications:
-    - target: {fileID: 17125512139036637, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 91285498057732971, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
       propertyPath: m_Name
       value: Strut
-      objectReference: {fileID: 0}
-    - target: {fileID: 91285498057732971, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 854471161957230319, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
       propertyPath: m_RootOrder
@@ -3827,42 +3819,6 @@ PrefabInstance:
     - target: {fileID: 854471161957230319, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1512975827383767850, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 1966081355823032188, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2244026781264858346, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4342771112162809634, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5636154164644279326, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5950460998465364995, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6227057522547224581, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7361875624651515773, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 9215534911462444084, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
-      propertyPath: m_Layer
-      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
@@ -3983,8 +3939,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_Father: {fileID: 2003072006}
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: -32.437, y: 0, z: 87.478}
 --- !u!1001 &353611549
 PrefabInstance:
@@ -8494,7 +8450,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.8254717, g: 1, b: 0.97878283, a: 1}
-  m_Intensity: 5.89
+  m_Intensity: 5.7
   m_Range: 11.84
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -8711,7 +8667,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.8254717, g: 1, b: 0.97878283, a: 1}
-  m_Intensity: 2
+  m_Intensity: 5.7
   m_Range: 6.66
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -10322,6 +10278,18 @@ PrefabInstance:
     - target: {fileID: 4342771112162809634, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5314091386217758247, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.0002103
+      objectReference: {fileID: 0}
+    - target: {fileID: 5314091386217758247, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.998882
+      objectReference: {fileID: 0}
+    - target: {fileID: 5314091386217758247, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 17.970531
       objectReference: {fileID: 0}
     - target: {fileID: 5636154164644279326, guid: 8a0770627b3754be3adf9e2987024d6d, type: 3}
       propertyPath: m_Layer
@@ -14645,7 +14613,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.8254717, g: 1, b: 0.97878283, a: 1}
-  m_Intensity: 2
+  m_Intensity: 5.7
   m_Range: 6.66
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -15725,7 +15693,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.8254717, g: 1, b: 0.97878283, a: 1}
-  m_Intensity: 2
+  m_Intensity: 5.7
   m_Range: 6.66
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -17642,8 +17610,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_Father: {fileID: 2003072006}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: -16.849, y: 28.668, z: 80.995}
 --- !u!1001 &1812965355
 PrefabInstance:
@@ -19288,6 +19256,9 @@ Transform:
   - {fileID: 1465652951}
   - {fileID: 868459996}
   - {fileID: 855335077}
+  - {fileID: 1805913987}
+  - {fileID: 249513468}
+  - {fileID: 349822875}
   m_Father: {fileID: 1686540532}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -21046,7 +21017,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.8254717, g: 1, b: 0.97878283, a: 1}
-  m_Intensity: 2
+  m_Intensity: 5.7
   m_Range: 6.66
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
